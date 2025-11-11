@@ -46,4 +46,13 @@ Teachers can generate a **QR-based attendance session**, students scan it using 
 
 <img width="541" height="415" alt="image" src="https://github.com/user-attachments/assets/61151eee-c4cd-4b1e-ae31-b2ffab6b1b79" />
 
+🌍 Live Project:https://cc-lab-project-attendance.web.app/
+
+👨‍💻 Author
+
+Malay Singh Bisht
+Department of Information Technology
+SGSITS, Indore
+📧 malaysinghbisht@gmail.com
+
 
